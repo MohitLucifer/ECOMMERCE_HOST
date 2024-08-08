@@ -23,8 +23,8 @@
 ### Installation and Setup
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/StoreSavvy.git
-    cd StoreSavvy
+    git clone https://github.com/yourusername/ECOMMERCE_HOST.git
+    cd ECOMMERCE_HOST
     ```
 
 2. **Install dependencies**:
